@@ -17,7 +17,29 @@ body {
 }
 
 
+/*----------------------------------------------------------
+                    header styles
+------------------------------------------------------------*/
 
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-buttons {
+    display: flex;
+}
+
+.nav-button {
+    margin-left: 34px;
+    list-style-type: none;
+}
+
+.nav-button a {
+    text-decoration: none;
+    color: black
+}
 
 
 
