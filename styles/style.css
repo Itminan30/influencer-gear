@@ -3,10 +3,18 @@
 ---------------------------------------------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Manrope:wght@700&family=Poppins:wght@500;600;700&display=swap');
 
+/* 
+font-family: 'Inter', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+
 /*-------------------------------------------------------
                     common styles
 ---------------------------------------------------------*/
-
+body {
+    font-family: 'Poppins', sans-serif;
+}
 
 
 
